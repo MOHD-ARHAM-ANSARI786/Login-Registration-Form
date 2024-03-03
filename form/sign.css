@@ -1,0 +1,85 @@
+body {
+
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+
+
+.container {
+    max-width: 400px;
+    margin: 45px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.custom-shape-divider-top-1709199549 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1709199549 svg {
+    position: relative;
+    display: block;
+    width: calc(124% + 1.3px);
+    height: 175px;
+}
+
+.custom-shape-divider-top-1709199549 .shape-fill {
+    fill: #9B9B9BBA;
+}
+
+.contact-section .form-section {
+    width: 50%;
+}
+
+label a{
+    margin-left: 100px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn{
+    margin:3px;
+}
+
+
+
+.message {
+    margin-top: -10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.message.success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.message.error {
+    background-color: #dc3545;
+    color: #fff;
+}
